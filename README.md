@@ -1,4 +1,4 @@
-# Biological-dataset
+## Biological-dataset
 
 The activity-regulated cytoskeletal (Arc) is a complex protein resulting from interactions among
 genetic and other factors. The mechanism of Arc development remains unknown. This study
